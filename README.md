@@ -1,7 +1,6 @@
 ## Hi, I'm Griffin Wiley
 
-I'm a Management Information Systems student at Kansas State University, graduating May 2028. I like finding the manual, repetitive parts of a business and building something that handles them on its own.
-
+I'm a Management Information Systems student at Kansas State University, graduating May 2028. I love the point where business and technology intersect and overlap
 Right now I'm a student intern with K-State Physical Security and Access Control, and I'm looking for a **Summer 2027 IT internship**.
 
 ### Projects
@@ -18,9 +17,9 @@ Several of these were built with AI-assisted development using Claude Code. I se
 ### What I work with
 
 **Automation:** Make.com, GoHighLevel, APIs and webhooks<br>
-**AI:** Claude Code, local LLMs (Ollama), prompt engineering<br>
+**AI:** Claude Code, local LLMs (Ollama), Gemini, prompt engineering<br>
 **Data:** Microsoft Excel, data analysis, data visualization<br>
-**Currently learning:** Power BI, Tableau, relational database design
+**Currently learning:** Power BI, Tableau, Python, SQL, relational database design
 
 ### Connect
 
